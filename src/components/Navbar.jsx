@@ -23,6 +23,7 @@ function BSnavbar() {
           <Nav.Link href="#pricing">Movies</Nav.Link>
           <Nav.Link href="#pricing">Recently Added</Nav.Link>
           <Nav.Link href="#pricing">My List</Nav.Link>
+          <Nav.Link href="https://documenter.getpostman.com/view/24358339/2s8ZDSbkB1" id="documentation">Documentation</Nav.Link>
         </Nav>
         <form class="form-inline my-2 my-lg-0  text-muted">
           <MdSearch size={30} className="me-2 mx-2" />

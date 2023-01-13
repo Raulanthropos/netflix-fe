@@ -216,3 +216,7 @@ a {
     max-width: 400px;
   }
 }
+
+#documentation {
+  font-weight: 900 !important;
+}
