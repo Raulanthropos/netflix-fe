@@ -13,7 +13,7 @@ const CarouselComponent = () => {
   const movieSearch = async () => {
     try {
       const response1 = await fetch(
-        "https://backendhw122-production.up.railway.app/netflix"
+        `https://netflix-backend-production-0d3e.up.railway.app/medias`
       );
       if (response1.ok) {
         const unboxedResponse1 = await response1.json();
