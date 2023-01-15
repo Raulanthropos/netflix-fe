@@ -5,7 +5,7 @@
 ### Features
 
 * View movie and TV show details, including posters and a synopsis
-* Download a PDF file for each movie and TV show
+* Download a PDF file for each movie and TV show (a "Documentation" option has been added to the FE navbar as well, for ease of access)
 * Access documentation for the application's endpoints
 
 ### Getting Started
