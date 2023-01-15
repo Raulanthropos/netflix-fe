@@ -13,6 +13,7 @@
 #### You can access the hosted version of the application by visiting the following links:
 
 * [Frontend](https://netflix-fe-five.vercel.app/)
+* [Backend](https://netflix-backend-production-0d3e.up.railway.app/medias/)
 * [Backend repository](https://github.com/Raulanthropos/netflix-backend)
 
 ### Endpoints
