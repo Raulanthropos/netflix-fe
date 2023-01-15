@@ -16,11 +16,12 @@
 * [Backend repository](https://github.com/Raulanthropos/netflix-backend)
 
 ### Endpoints
-GET, POST /medias/: Retrieve a list of all movies and TV shows, or post a new one
-GET, PUT, DELETE /medias/:mediaId: Retrieve/edit/delete details for a specific movie or TV show
-POST /medias/:mediaId/poster: Post the poster for a specific movie or TV show
-GET /media/:id/pdf: Download a PDF file for a specific movie or TV show
-GET /docs: Access documentation for the application's endpoints
+
+* GET, POST /medias/: Retrieve a list of all movies and TV shows, or post a new one
+* GET, PUT, DELETE /medias/:mediaId: Retrieve/edit/delete details for a specific movie or TV show
+* POST /medias/:mediaId/poster: Post the poster for a specific movie or TV show
+* GET /media/:id/pdf: Download a PDF file for a specific movie or TV show
+* GET /docs: Access documentation for the application's endpoints
 
 ### Built With
 
