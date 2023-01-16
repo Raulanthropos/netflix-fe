@@ -19,8 +19,8 @@
 ### Endpoints
 
 * GET, POST /medias/: Retrieve a list of all movies and TV shows, or post a new one
+* POST /media/:mediaId/poster : Supposed to update the poster using cloudinary - haven't managed to make it work yet :( 
 * GET, PUT, DELETE /medias/:mediaId: Retrieve/edit/delete details for a specific movie or TV show
-* POST /medias/:mediaId/poster: Post the poster for a specific movie or TV show
 * GET /media/:id/pdf: Download a PDF file for a specific movie or TV show
 * GET /docs: Access documentation for the application's endpoints
 
