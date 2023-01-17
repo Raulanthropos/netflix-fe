@@ -16,10 +16,10 @@
 * [Backend](https://netflix-backend-production-0d3e.up.railway.app/medias/)
 * [Backend repository](https://github.com/Raulanthropos/netflix-backend)
 
-### Endpoints
+### Endpoints (backend)
 
 * GET, POST /medias/: Retrieve a list of all movies and TV shows, or post a new one
-* POST /media/:mediaId/poster : Supposed to update the poster using cloudinary - haven't managed to make it work yet :( 
+* POST /media/:mediaId/poster : TODO - update the poster using cloudinary
 * GET, PUT, DELETE /medias/:mediaId: Retrieve/edit/delete details for a specific movie or TV show
 * GET /media/:id/pdf: Download a PDF file for a specific movie or TV show
 * GET /docs: Access documentation for the application's endpoints
